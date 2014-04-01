@@ -1,1 +1,0 @@
-ToDo App made with Angular.js
